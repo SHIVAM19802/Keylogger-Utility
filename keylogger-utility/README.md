@@ -1,4 +1,4 @@
-# keylogger-project
+# keylogger-utility
 I developed  a python code which will simply run in the command prompt and it will send the key logging information through the email address I provide. Basically we will get to know for which purpose our system is being used by someone else.
 
                 SYSTEM SURVEILLANCE USING KEYLOGGER 
